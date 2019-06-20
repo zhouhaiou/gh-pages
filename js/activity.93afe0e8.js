@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["activity"],{abae:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("\n  最新活动\n")])},c=[],i=t("2877"),l={},u=Object(i["a"])(l,a,c,!1,null,null,null);e["default"]=u.exports}}]);
+//# sourceMappingURL=activity.93afe0e8.js.map

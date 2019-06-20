@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["share"],{fbd8:function(n,e,t){"use strict";t.r(e);var l=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("\n  分享有礼\n")])},r=[],s=t("2877"),u={},a=Object(s["a"])(u,l,r,!1,null,null,null);e["default"]=a.exports}}]);
+//# sourceMappingURL=share.e1f99c7a.js.map
